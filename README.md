@@ -2,7 +2,7 @@
 
 Eu sou Sara 💀
 
-- Estou estudando na plataforma[Alura].(https://cursos.alura.com.br).
+- Estou estudando na plataforma [Alura] ()
 - Estou me desenvolvendo na linguagem JavaScript
 
 
