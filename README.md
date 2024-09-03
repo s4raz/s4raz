@@ -9,7 +9,7 @@ Eu sou Sara 💀
 
 
 
- ### Você pode entrar em contato 📧
+ ### Você pode entrar em contato em 📧
 
  00001119145971sp@al.educacao.sp.gov.br
 
